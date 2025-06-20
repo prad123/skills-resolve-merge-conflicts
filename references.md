@@ -1,1 +1,3 @@
-This should create merge conflict.
+# References
+
+* octocat 1 😈
